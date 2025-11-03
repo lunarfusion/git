@@ -1,0 +1,360 @@
+{
+  "main": {
+    "id": "aeff7555fd89a1d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "733769ace5f71e95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6653453422fa48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Quick Ref Cheetsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Quick Ref Cheetsheet"
+            }
+          },
+          {
+            "id": "8273fe785d05011d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git Quick Ref Cheetsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git Quick Ref Cheetsheet"
+            }
+          },
+          {
+            "id": "5ae55dc7ab51b643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Git Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Git Basics"
+            }
+          },
+          {
+            "id": "103f14bd0333c74a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Git Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Git Basics"
+            }
+          },
+          {
+            "id": "67fa878202b33f1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Commits.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Commits"
+            }
+          },
+          {
+            "id": "90147262ebb0511b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Branching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Branching"
+            }
+          },
+          {
+            "id": "73a1dd8b69b44145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04 - Deleting Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04 - Deleting Work"
+            }
+          },
+          {
+            "id": "29e3be230b38cf6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 - Rebasing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 - Rebasing"
+            }
+          },
+          {
+            "id": "e9ce900cd03550d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Stashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06 - Stashing"
+            }
+          },
+          {
+            "id": "03eaccd6f8340cc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - Merging.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 - Merging"
+            }
+          },
+          {
+            "id": "2bd30784a574bbfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "08 - Syncing Local and Remote Branches.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08 - Syncing Local and Remote Branches"
+            }
+          },
+          {
+            "id": "8e5b2df8657c61ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Branching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02 - Branching"
+            }
+          },
+          {
+            "id": "0a5340526ed2fefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unix Commands"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad6fe4ee38a3b1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d6674dc49cef59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b077a144e64c2ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9aba513669537fb8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "de8d4801bacaaca4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "46b00a5e9c76e20b",
+    "type": "split",
+    "children": [
+      {
+        "id": "258984d49935821f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "115285936a1d7da3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unix Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Unix Commands"
+            }
+          },
+          {
+            "id": "b23d766a32732c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Unix Commands.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Unix Commands"
+            }
+          },
+          {
+            "id": "d7cfb6a768d9eb09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a45ab61539f1325",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unix Commands.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Unix Commands"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a5340526ed2fefc",
+  "lastOpenFiles": [
+    "10 - Forking.md",
+    "02 - Branching.md",
+    "09 - SSH.md",
+    "08 - Syncing Local and Remote Branches.md",
+    "07 - Merging.md",
+    "06 - Stashing.md",
+    "05 - Rebasing.md",
+    "04 - Deleting Work.md",
+    "03 - Commits.md",
+    "01 - Git Basics.md",
+    "Git Quick Ref Cheetsheet.md",
+    "Vim Cheetsheet.md",
+    "git-ignore.png",
+    "git-ignore 1.png",
+    "Unix Commands.md",
+    "Welcome.md"
+  ]
+}
