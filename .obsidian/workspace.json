@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix Commands.md",
+                "file": "02 - Branching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Unix Commands"
+              "title": "02 - Branching"
             }
           }
         ],
@@ -338,23 +338,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a5340526ed2fefc",
+  "active": "6b077a144e64c2ee",
   "lastOpenFiles": [
+    "06 - Stashing.md",
+    "Vim Cheetsheet.md",
+    "Unix Commands.md",
+    "Git Quick Ref Cheetsheet.md",
     "10 - Forking.md",
-    "02 - Branching.md",
     "09 - SSH.md",
     "08 - Syncing Local and Remote Branches.md",
     "07 - Merging.md",
-    "06 - Stashing.md",
     "05 - Rebasing.md",
     "04 - Deleting Work.md",
     "03 - Commits.md",
+    "02 - Branching.md",
     "01 - Git Basics.md",
-    "Git Quick Ref Cheetsheet.md",
-    "Vim Cheetsheet.md",
     "git-ignore.png",
     "git-ignore 1.png",
-    "Unix Commands.md",
     "Welcome.md"
   ]
 }

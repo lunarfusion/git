@@ -22,6 +22,7 @@ git switch <branchname>
 $ git branch -D <local-branch>
 ```
 
+Do this after the work has been merged.
 
 ## Git Switch
 

@@ -26,7 +26,7 @@ git rebase -i main
 ```
 
 
-Rebase a spedific # of commits
+Rebase a specific # of commits
 
 ```
 git rebase -i HEAD~29

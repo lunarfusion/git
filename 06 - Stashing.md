@@ -94,3 +94,14 @@ git add --all
 git stash
 git stash dropp
 ```
+
+----
+
+## Use git stash to move current work to another branch
+
+```
+git stash
+git checkout <branchname>
+git stash pop
+```
+
